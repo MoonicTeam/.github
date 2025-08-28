@@ -1,3 +1,3 @@
-# Team Moonic
-Organisation for internal Git repositories\
-[Play Moonic](https://www.rbx.pizza)
+# Project Pizza Team
+Somehow - you've found your way here. Nothing to see here!\
+[Who Doesn't Like Pizza?](https://rbx.pizza/)
